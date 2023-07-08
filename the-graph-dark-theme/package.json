@@ -1,0 +1,21 @@
+{
+  "name": "the-graph-dark-theme",
+  "displayName": "The Graph Dark Theme",
+  "description": "A color theme for The Graph ecosystem",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Graph Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The Graph Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
